@@ -1,7 +1,7 @@
 {
   "name": "gs_cross_platform",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "expo-router/entry",
   "dependencies": {
     "@expo/metro-runtime": "~56.0.14",
     "@react-native-async-storage/async-storage": "^3.1.1",
