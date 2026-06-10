@@ -10,7 +10,7 @@ O aplicativo oferece uma interface de controle de missão simulando dados reais 
 
 ## Integrantes do grupo
 
-| Name                 | RM       |
+| Nome                 | RM       |
 |----------------------|----------|
 | Hector van Tol Taver | RM562881 |
 | Juan Gigliotti Cunha | RM563253 |
