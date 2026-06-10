@@ -7,7 +7,7 @@ import {
 } from "react-native";
 import { useMission } from "../contexts/MissionContext";
 import AlertItem from "../components/AlertItem";
-import { styles } from "../styles/AlertsScreen.styles";
+import { styles } from "./AlertsScreen.styles";
 import { globalStyles, COLORS } from "../styles/theme";
 
 
